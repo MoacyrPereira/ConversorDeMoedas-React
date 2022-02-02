@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(0, 0, 0, 0.103);
+}
+
+.Linha {
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-around;
+}
+
+h1 {
+    text-align: center;
+}
+
+.App {
+    margin: auto;
+    max-width: 900px;
+}
